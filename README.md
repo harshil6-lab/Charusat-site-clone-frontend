@@ -1,83 +1,86 @@
-CHARUSAT Website Clone
+# CHARUSAT Website Clone
 
-This project is a simple frontend clone of the CHARUSAT college website, created purely for learning and practice using HTML and CSS.
+A simple **frontend clone** of the CHARUSAT college website built using **HTML and CSS only**.  
+This project was created as part of my learning journey to understand website structure, layouts, and styling fundamentals.
 
-The goal of this project is to understand website structure, layouts, styling, and basic frontend development workflows.
+---
 
-📌 Project Objective
+## 🔗 Live Demo
 
-Learn how real college websites are structured
+👉 https://charusat-site-clone-inifr4evb-harshilkalsariya28-5171s-projects.vercel.app
 
-Practice HTML semantic elements
+---
 
-Improve CSS layout and styling skills
+## 🎯 Purpose of This Project
 
-Understand folder structure for frontend projects
+- Practice core **HTML & CSS**
+- Learn how real college websites are structured
+- Improve layout and styling skills
+- Understand basic frontend project organization
+- Build confidence before moving to JavaScript
 
-Build confidence before moving to JavaScript
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-HTML5
+- **HTML5**
+- **CSS3**
 
-CSS3
+> This project does not use JavaScript, frameworks, or libraries.
 
-No JavaScript, frameworks, or libraries are used in this project.
+---
 
-✨ Features
+## ✨ Features
 
-Static homepage layout
+- Static homepage layout
+- Navigation bar structure
+- College-related content sections
+- Clean and readable HTML markup
+- Organized CSS styling
+- Beginner-friendly project structure
 
-Navigation bar design
+---
 
-Sections for college information
+## 📂 Project Structure
 
-Basic responsive structure (if applicable)
-
-Clean and readable HTML structure
-
-Organized CSS styling
-
-📂 Project Structure
 CHARUSAT/
 │── index.html
 │── css/
-│   └── style.css
+│ └── style.css
 │── assets/
-│   └── images/
+│ └── images/
 
-🚀 How to See the Project : 
-LINK : 
-
-
-Open index.html in any browser.
 
 📚 What I Learned
 
-Structuring HTML pages properly
+Writing semantic and structured HTML
 
-Using CSS for layout and design
+Styling layouts using CSS
 
-Separating content (HTML) and styling (CSS)
+Separating structure and design
 
-Writing cleaner and more readable code
+Organizing frontend files properly
 
-Using GitHub for version control and documentation
+Using GitHub to manage and document projects
+
+🔮 Future Improvements
+
+Improve responsiveness for mobile devices
+
+Add JavaScript for interactivity
+
+Enhance UI and layout
+
+Add more pages (About, Contact, Departments)
 
 ⚠️ Disclaimer
 
 This project is not an official website of CHARUSAT.
-It is created only for educational and learning purposes.
+It is created strictly for educational and learning purposes.
 
-📈 Future Improvements
+🏷️ Tags
 
-Improve responsiveness
-
-Add JavaScript for interactivity
-
-Optimize layout and styles
-
-Add more pages (About, Contact, Departments)
+html css frontend website-clone college-website beginner-project learning-project
 
 🙌 Acknowledgement
 
